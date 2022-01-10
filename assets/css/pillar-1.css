@@ -552,6 +552,7 @@ progress {
 
 .list-inline-item {
   display: inline-block;
+  color: #191d22;
 }
 
 .list-inline-item:not(:last-child) {
